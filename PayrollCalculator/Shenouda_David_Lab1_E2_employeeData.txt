@@ -1,0 +1,8 @@
+EID0501		Sanders		Bernie	    60.0	5.0
+EID0502		Warren		Elizabeth   40.0	30.0
+EID0503		Trump		Donald      50.0	10000.0
+EID0504		Klobuchar	Amy         10.0	100.0
+EID0505		Buttigieg	Pete        20.0	50.0
+EID0506		Yang		Andrew      50.0	5.0
+EID0507		Bloomberg	Michael     1.0		1000000.0
+EID0508		Biden		Joe         2.0		200.0
