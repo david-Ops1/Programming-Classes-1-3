@@ -1,0 +1,7 @@
+Johnson		James	EID002096	Hourly	25.00	30	0.15
+Smith		Agent	EID002097	Salary	200000	0.35
+Brown		Robert	EID002098	Salary	100000	0.1
+Miller		Michael	EID002099	Hourly	12.00	50	0.25
+Jones		William	EID002100	Hourly	15.00	45	0.3
+Anderson	Thomas	EID002101	Hourly	10.00	40	0.20
+Wilson		Charles	EID002102	Salary	50000	0.2
